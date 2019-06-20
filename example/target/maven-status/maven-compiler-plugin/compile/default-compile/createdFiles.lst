@@ -1,0 +1,5 @@
+example\db\poc\service\RecordService.class
+example\db\poc\repository\RecordRepository.class
+example\db\poc\controller\RecordController.class
+example\db\poc\model\Record.class
+example\db\poc\Demo.class
